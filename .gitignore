@@ -1,0 +1,11 @@
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
+*.class
+.idea/
+*.iml
+target/
+/out/
